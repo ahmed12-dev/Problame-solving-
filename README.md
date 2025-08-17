@@ -55,6 +55,12 @@ Each folder is organized by **topic**, making it easy to track progress and revi
 - 7. Queues
 - 8. Trees
 - 9. Binary Search Trees
+- 10. AVL Trees
+- 11. Search Trees
+- 12. Heap
+- 13. Sorting
+- 14. Hashing
+- 15. Graphs
 
 ---
 
