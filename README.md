@@ -92,5 +92,3 @@ Each folder is organized by **topic**, making it easy to track progress and revi
 🔥 _"Consistency beats intensity. Solve daily, grow daily."_
 
 ---
-
-👉 Do you want me to also add a **progress tracker table** (like ✅ solved counts for each topic, updated as you solve), so your README shows live progress?
